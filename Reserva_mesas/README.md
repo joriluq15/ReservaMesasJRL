@@ -1,7 +1,7 @@
 # Proyecto Reserva de Mesas (Laravel)
 
 Esta aplicación sirve para gestionar reservas de mesas en un restaurante. 
-stá hecha con Laravel y utiliza MySQL como base de datos.
+Está hecha con Laravel y utiliza MySQL como base de datos.
 
 ## Estructura y archivos principales
 
